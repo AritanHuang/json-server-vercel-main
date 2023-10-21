@@ -1,5 +1,12 @@
 {
-    "users": [],
+    "users": [
+        {
+            "email": "admin@example.com",
+            "password": "admin",
+            "id": 1,
+            "role": "admin"
+        }
+    ],
     "views": [
         {
             "id": 1,
