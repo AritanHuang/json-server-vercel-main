@@ -2,7 +2,7 @@
     "users": [
         {
             "email": "admin@gmail.com",
-            "password": "$2a$10$9iaX/UUZw8bz2suZB4uwSudSSUEakl5lr.HVz4WUQ.Obgo8X83nQ2",
+            "password": "$2a$10$T6S0hAgbtl0kxXX1j6QGIezEBvA3Mx4Pzcue30gFAIeSxZ1.Q.M/i",
             "id": 1,
             "role": "admin"
         }
